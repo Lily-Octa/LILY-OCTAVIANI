@@ -7,11 +7,20 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
+        "hisorange/browser-detect": "^5.0",
+        "irazasyed/telegram-bot-sdk": "^3.15",
+        "jantinnerezo/livewire-alert": "^4.0",
         "laravel-frontend-presets/tall": "^8.0",
         "laravel/framework": "^11.31",
         "laravel/tinker": "^2.9",
         "livewire/livewire": "^3.5",
-        "robsontenorio/mary": "^2.2"
+        "livewire/volt": "^1.6",
+        "owenvoke/blade-fontawesome": "^2.9",
+        "robsontenorio/mary": "^2.2",
+        "santigarcor/laratrust": "^8.4",
+        "subfission/cas": "^5.1",
+        "tinymce/tinymce": "^7.8",
+        "wire-elements/modal": "^2.0"
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
